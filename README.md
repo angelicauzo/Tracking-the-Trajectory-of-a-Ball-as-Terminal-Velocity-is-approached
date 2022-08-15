@@ -1,0 +1,2 @@
+# Tracking-the-Trajectory-of-a-Ball-as-Terminal-Velocity-is-approached
+This code will model the trajectory of a hard spherical steel ball with drag forces acting travelling through different fluids provided the initial position, initial speed and angle of inclination to the horizontal in degrees at an initial time, t0 in steps dt until final time, tf is reached. This code does not run well and contributions will be appreciated.
